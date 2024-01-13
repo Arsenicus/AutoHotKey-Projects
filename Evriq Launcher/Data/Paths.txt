@@ -1,0 +1,9 @@
+%A_StartMenu%
+%A_StartMenu%\Programs
+%A_StartMenuCommon%
+%A_AppData%\OpenShell\Pinned
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+C:\Users\%A_UserName%\scoop\shims
+
+;%A_Desktop%
+;C:\WINDOWS\system32
