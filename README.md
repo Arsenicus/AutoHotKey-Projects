@@ -1,2 +1,2 @@
 # AutoHotkey-Projects
-My autohotkey projects
+Autohotkey projects I wrote or modified someones code.
